@@ -69,9 +69,3 @@ Below is an example showing the highest-confidence bounding box drawn around the
 - Works best with daylight, high-resolution images.  
 - For more robustness, could integrate with Faster R-CNN or YOLO architectures.
 
----
-
-## 🎯 Key Learning Outcomes
-- Built an **end-to-end object detection pipeline** from scratch.  
-- Learned how **region proposal** and **CNN-based classification** interact.  
-- Gained experience fine-tuning **VGG16** for a domain-specific task.
